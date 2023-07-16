@@ -1,4 +1,4 @@
-# professional-certificate-machine-learning-artificial-intelligence-data-analysis-coupon
+# Will the Customer Accept the Coupon?
 
 ##### Data analysis was done as a learning exercise of the Professional Certificate in Machine Learning and Artificial Intelligence - May 2023 offered via emeritus.org 
 * This data comes to us from the “UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk.”
